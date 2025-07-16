@@ -2,8 +2,8 @@
 #include <WebServer.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "HOTSPOT INTERNASIONAL";
-const char* password = "123456789";
+const char* ssid = "id wifi";
+const char* password = "password";
 
 WebServer server(80);
 Servo servo1, servo2;
